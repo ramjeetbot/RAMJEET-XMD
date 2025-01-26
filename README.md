@@ -141,7 +141,14 @@ RAMJEET-XMD BY RAMJEET BABA 👑
 <p align="center">
     <a href="https://whatsapp.com/channel/0029Vb4HINV7NoZz6r9A4a33">
 
+   <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
 
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</
 --
 
 <a><img src='https://qu.ax/vyLwL.jpg'/></a>
