@@ -168,3 +168,21 @@ src='https://qu.ax/Lwueu.jpg'/></a>
 
 
 ---
+
+
+---
+
+ <br>
+<h2 align="center"> ⚠️ Warning ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center"> Don't Copy Without Permission 
+</h3>
+
+<br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
