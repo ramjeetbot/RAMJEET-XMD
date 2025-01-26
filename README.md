@@ -47,3 +47,5 @@ RAMJEET-XMD BY RAMJEET BABA 👑
 
 <p align="center">
 <a href='https://dashboard.heroku.com/new-app?template=https://github.com/ramjeetbot/RAMJEET-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+  [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ramjeetbot/RAMJEET-XMD&branch=main&name=ramjeetbaba_pain)
