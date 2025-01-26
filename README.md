@@ -87,3 +87,31 @@ RAMJEET-XMD BY RAMJEET BABA 👑
 
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=250 height=45/p></a> </a>
+
+
+
+
+
+
+
+
+
+--
+
+<a><img src='https://qu.ax/vyLwL.jpg'/></a>
+
+
+---
+
+
+
+
+---
+
+<a><img
+src='https://qu.ax/Lwueu.jpg'/></a>
+
+
+
+
+---
