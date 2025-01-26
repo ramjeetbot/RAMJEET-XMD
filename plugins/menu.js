@@ -115,7 +115,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/jUeMU.jpg` },
+                image: { url: `https://qu.ax/elxiV.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -190,7 +190,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/jUeMU.jpg` },
+                image: { url: `https://qu.ax/SkEXk.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -461,7 +461,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/jUeMU.jpg` },
+                image: { url: `https://qu.ax/bSgii.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -564,7 +564,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/jUeMU.jpg` },
+                image: { url: `https://qu.ax/FHDUF.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
