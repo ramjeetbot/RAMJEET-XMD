@@ -144,6 +144,7 @@ jobs:
       run: npm start
 ```
 
+
 ---
 
 # 🔥 𝙍𝘼𝙈𝙅𝙀𝙀𝙏 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
@@ -174,6 +175,7 @@ jobs:
 
 ### 🔹 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
+
 ---
 
 <div align="center">
@@ -185,11 +187,14 @@ jobs:
 
 
 
+
 <p align="center">
     <a href="https://whatsapp.com/channel/0029Vb4HINV7NoZz6r9A4a33">
 
+
    <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
+   
+  </a>
 </p>
 
 <div align="center">
