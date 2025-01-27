@@ -40,7 +40,7 @@ title: 'RAMJEET XMD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/ramjeetbot/RAMJEET-XMD" ,
-thumbnailUrl: "https://qu.ax/jUeMU.jpg" ,
+thumbnailUrl: "https://qu.ax/cFKdu.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
