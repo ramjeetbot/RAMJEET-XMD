@@ -144,8 +144,6 @@ jobs:
       run: npm start
 ```
 
-
-
 ---
 
 # 🔥 𝙍𝘼𝙈𝙅𝙀𝙀𝙏 𝙈𝘿 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
@@ -178,64 +176,41 @@ jobs:
 
 
 ---
-
 <div align="center">
     
 # 🟢 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙇𝙄𝙉𝙆 🟢
-
 </div>
-
-
-
-
 
 <p align="center">
     <a href="https://whatsapp.com/channel/0029Vb4HINV7NoZz6r9A4a33">
-
-
-   <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-   
-  </a>
-</p>
-
+ <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a></p>
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </
 --
-
 <a><img src='https://qu.ax/vyLwL.jpg'/></a>
 
-
 ---
 
 
 
-
 ---
-
 <a><img
 src='https://qu.ax/Lwueu.jpg'/></a>
 
 
 
-
 ---
 
-
 ---
-
  <br>
 <h2 align="center"> ⚠️ Warning ⚠️
  </h2>
- 
- ---
-
+  ---
 <h3 align="center"> Don't Copy Without Permission 
 </h3>
-
 <br>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ---
