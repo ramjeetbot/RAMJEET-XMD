@@ -48,6 +48,16 @@ RAMJEET-XMD BY RAMJEET BABA 👑
 <p align="center">
 <a href='https://dashboard.heroku.com/new-app?template=https://github.com/ramjeetbot/RAMJEET-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
+
+href="https://account.solarhosting.cc/login" target="_blank">
+   <img alt="Solar Hosting Panel" src="https://img.shields.io/badge/%20CREATE%20Solar%20ACCOUNT-pink?style=for-the-badge&logo=internet-explorer&logoColor=white" width="200">
+</a>
+
+  <a href="https://panel.solarhosting.cc/auth/login" target="_blank">
+   <img alt="Solar Hosting Panel" src="https://img.shields.io/badge/%20PANEL%20Solar%20Hosting-neon pink?style=for-the-badge&logo=internet-explorer&logoColor=white" width="200">
+</a>
+
+
   ---
 
 <h4 align="center">2. Railway</h4>
